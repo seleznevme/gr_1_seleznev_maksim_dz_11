@@ -22,8 +22,8 @@ ul {
 }
 @media screen and (max-width: 991px) {	
 	.header_line {	
-	width: 100%;	
-}
+	width: 100%;
+	}	
 }
 .main {
 	padding-top: 125px;	
